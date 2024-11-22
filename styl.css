@@ -32,7 +32,7 @@ body{  background-color: rgb(191, 252, 252);
     tbody tr:nth-child(3){background-color: azure;}
 
     header { width: 100%;
-    max-width: 800px;
+    max-width: 1000px;
     text-align: center;
 }
 article{ text-align: left;
