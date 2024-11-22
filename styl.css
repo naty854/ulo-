@@ -1,8 +1,9 @@
+
 body{  background-color: rgb(191, 252, 252);
     font-family: 'Times New Roman', Times, serif;
     color: black;
     line-height: 2;
-    padding: 20px;
+    padding: 10px;
     display: inline-block;
     align-items: center;}
     h1{text-align: center;}
@@ -17,9 +18,9 @@ body{  background-color: rgb(191, 252, 252);
     
 ;
 
-    h1{ text-align: center}
-    h2{text-align: center; background-color: aliceblue;}
-    h3{text-align: center; background-color: aliceblue;}
+    h2{text-align: center}
+    h1{text-align: center; background-color: aliceblue;}
+    h3{text-align: center}
     h4{ text-align: center}
 
     table {width: 100%; border-collapse: collapse;}
@@ -31,11 +32,11 @@ body{  background-color: rgb(191, 252, 252);
     tbody tr:nth-child(3){background-color: azure;}
 
     header { width: 100%;
+    max-width: 800px;
     text-align: center;
 }
 article{ text-align: left;
 width: 100%;}
 
 section{ width: 400px;
-height: 100px;
- }
+height: 100px;}
