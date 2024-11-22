@@ -26,12 +26,12 @@ body{  background-color: rgb(191, 252, 252);
     table {width: 100%; border-collapse: collapse;}
     th, td {border: 1px solid #bbb;
         padding: 8px; 
-    text-align: left;}
+    text-align: center;}
     th {background-color: azure;}
     tr:nth-child(even){background-color: azure;}
     tbody tr:nth-child(3){background-color: azure;}
 
-    header { width: 1000%;
+    header { width: 100%;
     max-width: 800px;
     text-align: center;
 }
